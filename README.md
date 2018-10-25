@@ -9,7 +9,7 @@ A mini challenge of Node.js workshop - Week 2
 ## Getting Started
 ```
 # Clone this project:
-git clone https://github.com/spy126/realworld-rest-api-app.git
+git clone https://github.com/spy126/mini-challenge-2.git
 
 # Install dependency packages:
 npm install
