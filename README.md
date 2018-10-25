@@ -20,8 +20,7 @@ npm start
 
 ## Yêu cầu
 
-- Sử dụng project và hoành thành 3 endpoint API:
- + Thêm người dùng mới
- + Lấy ra danh sách người dùng
- + Xóa một người dùng theo id.
- 
+Sử dụng project và hoành thành 3 endpoint API trong file `src/controllers/user.js`:
+ + Thêm người dùng mới (`createUser`)
+ + Lấy ra danh sách người dùng (`getAllUsers`)
+ + Xóa một người dùng theo id (`removeUser`)
